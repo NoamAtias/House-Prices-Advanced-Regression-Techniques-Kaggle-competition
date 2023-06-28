@@ -53,6 +53,6 @@ Create the submission file in the required format specified by the competition. 
 
 To use the code and reproduce the results of this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/NoamAtias/Statistical-Inference-and-Data-Mining-House-Prices-Advanced-Regression-Techniques.git`
 2. Set up the Kaggle API and authenticate your account. Refer to the Kaggle documentation for instructions.
 3. Download the
