@@ -14,8 +14,6 @@ This repository contains our Mid-term project in the course on Statistical Infer
   - [Model Fitting and Evaluation](#model-fitting-and-evaluation)
   - [Submission](#submission)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
