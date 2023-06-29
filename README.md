@@ -1,4 +1,4 @@
-# Statistical Inference and Data Mining -- Mid-term Project
+# Statistical Inference and Data Mining - Mid-term Project
 
 This repository contains our Mid-term project in the course on Statistical Inference and Data Mining. This project focuses on participating in the Kaggle competition "House Prices: Advanced Regression Techniques." The competition involves predicting house prices based on various features provided in the dataset.
 ### This project was done together with Chanel Michaeli.
@@ -15,7 +15,7 @@ This repository contains our Mid-term project in the course on Statistical Infer
   - [Submission](#submission)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- 
+
 ## Introduction
 
 In this project, we participate in the Kaggle competition "House Prices: Advanced Regression Techniques." Our goal is to build a regression model that accurately predicts house prices based on a given set of features. By leveraging statistical inference and data mining techniques, we aim to develop a robust model that achieves high performance on the competition's evaluation metrics.
