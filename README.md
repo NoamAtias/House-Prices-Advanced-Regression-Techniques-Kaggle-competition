@@ -14,7 +14,8 @@ This repository contains our Mid-term project in the course on Statistical Infer
   - [Model Fitting and Evaluation](#model-fitting-and-evaluation)
   - [Submission](#submission)
 - [Usage](#usage)
-
+- [Contributing](#contributing)
+- 
 ## Introduction
 
 In this project, we participate in the Kaggle competition "House Prices: Advanced Regression Techniques." Our goal is to build a regression model that accurately predicts house prices based on a given set of features. By leveraging statistical inference and data mining techniques, we aim to develop a robust model that achieves high performance on the competition's evaluation metrics.
@@ -53,4 +54,17 @@ To use the code and reproduce the results of this project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/NoamAtias/Statistical-Inference-and-Data-Mining-House-Prices-Advanced-Regression-Techniques.git`
 2. Set up the Kaggle API and authenticate your account. Refer to the Kaggle documentation for instructions.
-3. Download the
+3. Download the competition dataset using the Kaggle API command:
+kaggle competitions download -c house-prices-advanced-regression-techniques
+4. Extract the downloaded dataset and place the files in the appropriate directory within the repository.
+5. Open the Jupyter Notebook file notebook.ipynb using Jupyter Notebook or any compatible environment.
+6. Run the notebook cells sequentially to execute the data analysis, preprocessing, model building, model fitting, evaluation, and submission steps.
+7. Adjust the hyperparameters, feature engineering techniques, or model algorithms as needed to experiment and improve the results.
+8. Review the generated submission file and ensure it is formatted correctly.
+9. Submit the submission file through the Kaggle platform for evaluation and comparison with other participants.
+
+Feel free to explore the notebook and modify the code to suit your needs or experiment with alternative approaches to improve the prediction accuracy of house prices.
+
+## Contributing
+
+If you wish to contribute to this project, you can fork the repository, make your modifications, and submit a pull request. Contributions such as bug fixes, enhancements, or additional features are welcome and greatly appreciated.
